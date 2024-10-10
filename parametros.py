@@ -1,0 +1,19 @@
+G0 = 0
+Cd0 = 0
+K = 0
+M = 0
+S = 0
+ALFAF = 0
+CLA = 0
+CL0 = 0
+FI = 0
+RHOI = 0
+NR = 0
+PI = 0
+MR = 0
+ETAP = 0
+AV = 0
+H0 = 0
+# Variáveis de controle
+CL = 0
+F = 0 # força propulsiva
